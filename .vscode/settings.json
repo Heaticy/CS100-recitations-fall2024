@@ -1,0 +1,7 @@
+{
+    "markdown.marp.enableHtml": true,
+    "markdown.marp.themes": [
+    "./themes/ShanghaiTech_Tutorial.scss",
+    "./themes/am_template.scss",
+    ],
+}
